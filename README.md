@@ -11,11 +11,20 @@ Exploratory Data Analysis (EDA) and predictive analysis are both crucial steps i
 
 2. Data Cleaning: Preparing the data for analysis by handling missing values, outliers, and ensuring data types are appropriate for analysis.
 
+   ![image](https://github.com/yuvrajsaraogi/uber-data-analysis-using-machine-learning/assets/117842160/a569c418-aa39-455b-9eea-40711b9e6614)
+
+   ![image](https://github.com/yuvrajsaraogi/uber-data-analysis-using-machine-learning/assets/117842160/252a2c0b-9c5d-4835-93da-ac6c3c13adb3)
+
 3. Exploratory Analysis:
 
 --> Summary Statistics: Calculating descriptive statistics (mean, median, standard deviation, etc.) to understand the distribution of variables.
 
 --> Data Visualization: Using charts (histograms, box plots, scatter plots, etc.) to visualize relationships between variables and identify patterns or trends.
+
+   ![image](https://github.com/yuvrajsaraogi/uber-data-analysis-using-machine-learning/assets/117842160/46e6d424-1242-4e9e-85cc-5ce20f88d4e3)
+
+   ![image](https://github.com/yuvrajsaraogi/uber-data-analysis-using-machine-learning/assets/117842160/f60310ba-6674-4d80-8c89-62ca2ff330c0)
+
 
 4. Feature Engineering: Creating new features from existing data that might enhance the predictive power of your model. This could include deriving features like time of day, day of week, or distance between locations.
 
