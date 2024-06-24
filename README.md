@@ -1,15 +1,15 @@
 # Uber-Data-Analysis-Using-Machine-Learning
 
-In this project we done Exploratory Data Analysis of Boston Uber Data and 
+In this project, we have done an Exploratory Data Analysis of Boston Uber Data and 
 End-to-End Predictive Analysis for Uber Price Prediction using Machine Learning.
 
-Exploratory Data Analysis (EDA) and predictive analysis are both crucial steps in understanding and utilizing data effectively. Here’s a breakdown of what each part of your project might involve:
+Exploratory Data Analysis (EDA) and predictive analysis are crucial in understanding and utilizing data effectively. Here’s a breakdown of what each part of your project might involve:
 
 ### Exploratory Data Analysis (EDA) of Boston Uber Data:
 
 1. Data Collection: Gathering the Boston Uber data, which likely includes information such as ride timestamps, locations, prices, and possibly other factors like weather or traffic conditions.
 
-2. Data Cleaning: Preparing the data for analysis by handling missing values, outliers, and ensuring data types are appropriate for analysis.
+2. Data Cleaning: Preparing the data for analysis by handling missing values, and outliers, and ensuring data types are appropriate for analysis.
 
    ![image](https://github.com/yuvrajsaraogi/uber-data-analysis-using-machine-learning/assets/117842160/a569c418-aa39-455b-9eea-40711b9e6614)
 
@@ -34,7 +34,7 @@ Exploratory Data Analysis (EDA) and predictive analysis are both crucial steps i
 
 2. Feature Selection: Choosing relevant features from your EDA phase that are likely to impact Uber prices. This might include factors like distance traveled, time of day, weather conditions, etc.
 
-3. Model Selection: Selecting appropriate machine learning models for regression (since you're predicting prices). This could range from simpler models like linear regression to more complex ones like decision trees, random forests, or even neural networks depending on the complexity of your data and prediction task.
+3. Model Selection: Select appropriate machine learning models for regression (since you're predicting prices). This could range from simpler models like linear regression to more complex ones like decision trees, random forests, or even neural networks depending on the complexity of your data and prediction task.
 
 4. Model Training and Evaluation:
 
